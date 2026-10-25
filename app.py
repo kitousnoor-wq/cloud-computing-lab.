@@ -1,5 +1,5 @@
 from flask import Flask
-
+<h1>Cloud Computing Lab - PaaS - Version 2</h1>
 app = Flask(__name__)
 
 @app.route("/")
